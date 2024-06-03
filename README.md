@@ -8,4 +8,6 @@ Reference:
    https://www.youtube.com/watch?v=OD5FS7qUfBQ
 4. Set up Milvus in Google Colab
    https://milvus.io/blog/Set-Up-Milvus-in-Google-Colaboratory-for-Easy-ML-Application-Building.md
-5. 
+5. use Wget command in Google Colab (Linux based)
+   https://miteshparmar1.medium.com/using-wget-command-in-google-colab-to-retrieve-datasets-from-source-f4ffeb22cd10
+   
